@@ -1,0 +1,29 @@
+/* .main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 3%;
+} */
+body{
+    /* background-color: hsl(223, 74%, 82%); */
+    background-image: url(./banner2.jpg);
+}
+/* .fix{
+    border:2px solid #11fce8;
+    border-radius: 5px;
+    background-color:#11fcd1 ;
+    padding: 10px;
+}
+*/
+h1,h4{
+    color: goldenrod
+} 
+.label{
+    color: goldenrod
+}
+.form-control{
+    color: goldenrod;
+}
+#tableResult{
+    background-color: rgb(250, 247, 247);
+}
